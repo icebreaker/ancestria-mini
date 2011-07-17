@@ -5,7 +5,7 @@ Ancestria: Mini is match-3 style game with a twist written in AS3 using Flixel a
 **WARNING:** it is not a finished / finalized product; please keep this in mind before you
 start trolling up and down the hills of the Shire.
 
-If you are curious and brave enough you can give it a try over [here](http://ancestriagame.com/mini).
+If you are curious and brave enough you can give it a try over [here](https://chrome.google.com/webstore/detail/ilpfcapnpckgnpgajapfkligeailpllh).
 
 Where's the data?
 ----------------
