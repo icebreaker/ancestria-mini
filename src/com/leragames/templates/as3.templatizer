@@ -1,0 +1,15 @@
+{ 
+	"name": "as3",
+	"actions":
+	[	
+		["%NAME%.as","as3.as"]
+	],
+	"arguments":
+	{
+		"name":
+		{
+			"%NAME%":"v"
+		}
+	},
+	"constants": {}
+}
